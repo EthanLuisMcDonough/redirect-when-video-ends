@@ -24,9 +24,10 @@ Originally created to [answer a question](https://wordpress.org/support/topic/vi
 
 ## Installation
 
-1. Upload the plugin files to the `/wp-content/plugins/plugin-name` directory, or install the plugin through the WordPress plugins screen directly.
-2. Activate the plugin through the 'Plugins' screen in WordPress
-3. Use the Settings->Plugin Name screen to configure the plugin
+1. Download the [zip file](https://github.com/EthanLuisMcDonough/redirect-when-video-ends/blob/master/redirect-when-video-ends.zip)
+2. Upload the plugin files to the `/wp-content/plugins/plugin-name` directory, or install the plugin through the WordPress plugins screen directly.
+3. Activate the plugin through the 'Plugins' screen in WordPress
+4. Use the Settings->Plugin Name screen to configure the plugin
 
 ## Frequently Asked Questions
 
