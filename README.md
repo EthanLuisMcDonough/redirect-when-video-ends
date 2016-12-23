@@ -5,6 +5,7 @@ Version 1.0
 
 ## Description
 This plugin will allow you to use the shortcode `[redirvid]` and embed an HTML5 video.  Once this video is over, the page will be automatically redirected
+
 Originally created to [answer a question](https://wordpress.org/support/topic/video-plugin-looking-for-a-special-one/) on the WordPress forum.
 
 ### Attributes for this shortcode
