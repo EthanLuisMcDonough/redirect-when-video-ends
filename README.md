@@ -1,8 +1,11 @@
 # Redirect when the video ends
 A shortcode that allows you to embed an HTML5 video and redirect the page when the video is over
 
+Version 1.0
+
 ## Description
 This plugin will allow you to use the shortcode `[redirvid]` and embed an HTML5 video.  Once this video is over, the page will be automatically redirected
+Originally created to [answer a question](https://wordpress.org/support/topic/video-plugin-looking-for-a-special-one/) on the WordPress forum.
 
 ### Attributes for this shortcode
 `src` - The source of the video file.
