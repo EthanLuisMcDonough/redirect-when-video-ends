@@ -39,7 +39,7 @@ Yes, the redirect needs JavaScript.  If the JavaScript is turned off on the user
 * The plugin has been created
 
 ### 1.1 
-Allows muting, class, and id.
+* Allows muting, class, and id.
 
 ## Upgrade Notice 
     
