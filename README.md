@@ -1,7 +1,7 @@
 # Redirect when the video ends
 A shortcode that allows you to embed an HTML5 video and redirect the page when the video is over
 
-Version 1.0
+Version 1.1
 
 ## Description
 This plugin will allow you to use the shortcode `[redirvid]` and embed an HTML5 video.  Once this video is over, the page will be automatically redirected
@@ -10,16 +10,14 @@ Originally created to [answer a question](https://wordpress.org/support/topic/vi
 
 ### Attributes for this shortcode
 `src` - The source of the video file.
-
 `link` - The link that is opened when the video ends.
-
 `target` - The default is `_self`, which redirects the page.  You can use any of the values that you could use with the [`target` attribute of an `<a>` tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a#attr-target).
-
 `autoplay` - This  attribute specifies whether or not the video begins playing on its own.  The value `yes` means the video will autoplay.  The value `no` means that the video will not autoplay.  The default is value `no`.
-
-`controls` - This  attribute specifies whether or not the video has user controls.  The value `no` means that the video will not have controls.  The value `yes` means the video will have controls.  The default is value `no`.
-
+`controls` - This  attribute specifies whether or not the video has user controls.  The value `no` means that the video will not have controls.  The value `yes` means 
+`muted` - This  attribute specifies whether or not the video is muted.  The value `no` means that the video will not have controls.  The value `yes` means the video will have controls.  The default is value `no`.
 `poster` - The source of the poster image of the HTML5 video.  This is the image that shows up before the video plays.
+`class` - The HTML class of the video.
+`id` - The HTML id of the video.
 
 
 ## Installation
@@ -40,6 +38,10 @@ Yes, the redirect needs JavaScript.  If the JavaScript is turned off on the user
 ### 1.0
 * The plugin has been created
 
-## Upgrade Notice
+### 1.1 
+Allows muting, class, and id.
+
+## Upgrade Notice 
     
-1.0 - current version
+1.0 - first version
+1.1 - current version
